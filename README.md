@@ -24,7 +24,7 @@ The goal of this project is to demonstrate the end-to-end process of **data prep
 - Output Layer: Dense(10), activation = Softmax
 
 ## 📊 Results
-Training Accuracy: ~99.07%
-Validation Accuracy: ~96.83%
-Test Accuracy: ~96.51%
+- Training Accuracy: ~99.07%
+- Validation Accuracy: ~96.83%
+- Test Accuracy: ~96.51%
 
